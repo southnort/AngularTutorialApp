@@ -23,9 +23,15 @@
               "src/assets"
             ],
             "styles": [
+              "../AngularTutorial/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "../AngularTutorial/node_modules/jquery/dist/jquery.min.js",
+              "../AngularTutorial/node_modules/popper.js/dist/umd/popper.min.js",
+              "../AngularTutorial/node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "../AngularTutorial/node_modules/chart.js/dist/Chart.min.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
