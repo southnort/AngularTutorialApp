@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\@angular\\compiler-cli\\src",
+    "\\node_modules\\selenium-webdriver",
+    "\\node_modules\\selenium-webdriver\\lib",
+    "\\node_modules\\selenium-webdriver\\lib\\test",
+    "\\node_modules\\selenium-webdriver\\lib\\test\\data",
+    "\\src",
+    "\\src\\app"
+  ],
+  "SelectedNode": "\\src\\app\\app.module.ts",
+  "PreviewInSolutionExplorer": false
+}
