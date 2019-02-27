@@ -9,6 +9,8 @@ export class SectionOrdersComponent implements OnInit {
 
   constructor() { }
 
+  orders: Order[];
+
   ngOnInit() {
   }
 

@@ -4,9 +4,10 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\sections",
-    "\\src\\app\\sections\\section-sales",
+    "\\src\\app\\sections\\section-orders",
+    "\\src\\app\\server",
     "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\src\\app\\sections\\section-sales\\section-sales.component.css",
+  "SelectedNode": "\\src\\app\\shared\\order.ts",
   "PreviewInSolutionExplorer": false
 }
