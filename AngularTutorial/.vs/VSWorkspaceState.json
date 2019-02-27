@@ -1,14 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\node_modules\\@angular\\compiler-cli\\src",
-    "\\node_modules\\selenium-webdriver",
-    "\\node_modules\\selenium-webdriver\\lib",
-    "\\node_modules\\selenium-webdriver\\lib\\test",
-    "\\node_modules\\selenium-webdriver\\lib\\test\\data",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\sections",
+    "\\src\\app\\sections\\section-sales",
+    "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\src\\app\\app.module.ts",
+  "SelectedNode": "\\src\\app\\sections\\section-sales\\section-sales.component.css",
   "PreviewInSolutionExplorer": false
 }
