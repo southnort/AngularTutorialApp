@@ -3,11 +3,8 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\sections",
-    "\\src\\app\\sections\\section-orders",
-    "\\src\\app\\server",
-    "\\src\\app\\shared"
+    "\\src\\app\\charts\\line-chart"
   ],
-  "SelectedNode": "\\src\\app\\shared\\order.ts",
+  "SelectedNode": "\\src\\index.html",
   "PreviewInSolutionExplorer": false
 }
