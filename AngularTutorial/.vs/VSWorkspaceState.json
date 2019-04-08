@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\charts",
+    "\\src\\app\\charts\\bar-chart",
+    "\\src\\app\\sections"
   ],
-  "SelectedNode": "\\angular.json",
+  "SelectedNode": "\\src\\app\\sections\\section-sales",
   "PreviewInSolutionExplorer": false
 }
